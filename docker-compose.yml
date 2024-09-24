@@ -1,0 +1,42 @@
+version: '3'
+services:
+  tg-bot:
+    container_name: tg-bot
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/opt/app
+    environment:
+      - BOT_API_KEY=7059021990:AAFXm2Ho1dbDg0ZZpJGwRyIrrVXHss01eLE
+      - ADMIN_ID=321193978
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=6o2P8HzMtmpZvQvBJaAp
+      - POSTGRES_DB=tgbot
+      - POSTGRES_PORT=5432
+      - POSTGRES_HOST=postgres
+    depends_on:
+      - postgres
+    command: node build index.js
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  postgres:
+    container_name: postgres
+    image: postgres:14-alpine
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 6o2P8HzMtmpZvQvBJaAp
+      POSTGRES_DB: tgbot
+    ports:
+      - "5431:5432"
+    volumes:
+      - postgresql_data:/var/lib/postgresql/data
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+
+volumes:
+  postgresql_data:
