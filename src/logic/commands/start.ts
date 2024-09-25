@@ -27,8 +27,7 @@ export const start = async (ctx: CustomContext) => {
 
   clearSession(ctx);
   await ctx.reply(
-    "Привет, я - Бот по скупке техники Apple!\n" +
-      `Хотите узнать цену вашего iPhone? ${emoji}`,
+    "Привет, я буду генерировать опросы в этом чатике " + `${emoji}`,
     {
       reply_markup: {
         keyboard: keyboard.build(),

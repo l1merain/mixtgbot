@@ -10,6 +10,8 @@ export const textAll = async (ctx: CustomContext) => {
       ? ctx.message.text.split("/textAll ")[1]
       : "";
 
+    if (!textToSend) return;
+
     for await (const user of users) {
       ctx.api.sendMessage(user.dataValues.telegram_id, textToSend);
     }
