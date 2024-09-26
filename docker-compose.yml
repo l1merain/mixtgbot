@@ -16,6 +16,7 @@ services:
       - POSTGRES_DB=tgbot
       - POSTGRES_PORT=5432
       - POSTGRES_HOST=postgres
+      - POLL_TIME_SEC=10
     depends_on:
       - postgres
     extra_hosts:

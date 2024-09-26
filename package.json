@@ -21,7 +21,8 @@
     "sequelize": "6.37.3",
     "sequelize-cli": "6.6.2",
     "user-agents": "1.1.325",
-    "uuid": "10.0.0"
+    "uuid": "10.0.0",
+    "cross-env": "7.0.3"
   },
   "devDependencies": {
     "@babel/preset-typescript": "7.24.1",
@@ -33,7 +34,6 @@
     "@rollup/plugin-typescript": "11.1.6",
     "@types/user-agents": "1.0.4",
     "@types/uuid": "10.0.0",
-    "cross-env": "7.0.3",
     "prettier": "3.2.5",
     "rollup": "4.17.2",
     "rollup-plugin-delete": "2.1.0",
