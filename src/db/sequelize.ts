@@ -1,4 +1,5 @@
 import { Sequelize } from "sequelize";
+import { exec } from "child_process";
 
 export const sequelize = new Sequelize({
   dialectOptions: {
@@ -13,3 +14,20 @@ export const sequelize = new Sequelize({
   database: process.env.POSTGRES_DB,
   username: process.env.POSTGRES_USER,
 });
+
+export const runMigrations = async () => {
+  await new Promise((resolve, reject) => {
+    const migrate = exec(
+      `sequelize db:migrate --env ${process.env.NODE_ENV}`,
+      { env: process.env },
+      (err) =>
+        err ? reject(err) : resolve(() => console.log("migrations completed")),
+    );
+
+    if (migrate.stdout && migrate.stderr) {
+      // Forward stdout+stderr to this process
+      migrate.stdout.pipe(process.stdout);
+      migrate.stderr.pipe(process.stderr);
+    }
+  });
+};

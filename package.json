@@ -5,6 +5,7 @@
   "description": "",
   "scripts": {
     "build": "cross-env NODE_ENV=production rollup -c rollup.config.mjs",
+    "prod": "cross-env NODE_ENV=production node build/index.js",
     "dev": "cross-env NODE_ENV=development rollup -c rollup.config.mjs -w"
   },
   "author": "",

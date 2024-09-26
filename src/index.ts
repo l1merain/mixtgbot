@@ -2,17 +2,21 @@ import { GrammyError, HttpError } from "grammy";
 import { bot } from "./bot";
 import { COMMANDS_LIST_INITIAL } from "./logic/commandsListConfig";
 import { start, textAll, startPoll, stopPoll } from "./logic/commands/imports";
-import { sequelize } from "./db/sequelize";
+import { runMigrations, sequelize } from "./db/sequelize";
 import { activePoll, updateActivePollAnswers } from "./logic/commands/poll";
 
 const startBot = async () => {
+  if (process.env.NODE_END === "production") {
+    await runMigrations();
+  }
   await sequelize.authenticate();
+
   await bot.api.setMyCommands(COMMANDS_LIST_INITIAL);
 
   bot.command("start", start);
-  bot.command("textAll", textAll);
-  bot.command("startPoll", startPoll);
-  bot.command("stopPoll", stopPoll);
+  bot.command("text_all", textAll);
+  bot.command("start_poll", startPoll);
+  bot.command("stop_poll", stopPoll);
 
   bot.on("poll_answer", async (ctx) => {
     if (

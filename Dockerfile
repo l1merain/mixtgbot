@@ -19,4 +19,4 @@ WORKDIR /opt/app
 COPY --from=build /opt/app/build /opt/app/build
 
 # Команда для запуска собранного приложения
-CMD ["node", "build/index.js"]
+CMD ["npm", "run", "prod"]

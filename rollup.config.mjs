@@ -15,7 +15,6 @@ export default {
   output: {
     file: "./build/index.js",
     format: "cjs", // commonjs формат
-    sourcemap: devMode, // Включаем sourcemap в режиме разработки
   },
   plugins: [
     terser(),
