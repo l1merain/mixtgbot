@@ -29,4 +29,4 @@ COPY --from=build /opt/app/build /opt/app/build
 COPY --from=build /opt/app/node_modules /opt/app/node_modules
 
 # Команда для запуска собранного приложения
-CMD ["npm", "run", "prod"]
+CMD ["node", "build/index.js"]
