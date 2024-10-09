@@ -12,7 +12,11 @@ let timeout: NodeJS.Timeout;
 let reconnectionAttempt = 0;
 
 let lastSentTime = 0; // Время последней отправки сообщения
-const SEND_INTERVAL = 10 * 60 * 1000;
+const SEND_INTERVAL =
+  (process.env.POLL_TIME_MINUTES ? +process.env.POLL_TIME_MINUTES : 10) *
+  60 *
+  1000;
+console.log(SEND_INTERVAL);
 const CONNECTION_STRING = process.env.AMQP_CONNECTION_STRING;
 
 const setupConnection = async () => {
