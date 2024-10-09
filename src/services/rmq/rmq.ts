@@ -110,7 +110,7 @@ const startConsumer = async () => {
       }
     },
     {
-      noAck: false,
+      noAck: true,
     },
   );
 };
