@@ -11,7 +11,7 @@ import { blockAnswerMiddleware } from "./logic/middlewares/blockAnswerMiddleware
 import { addTypeToSearchMiddleware } from "./logic/middlewares/addTypeToSearchMiddleware";
 
 const startBot = async () => {
-  if (process.env.NODE_END === "production") {
+  if (process.env.NODE_ENV === "production") {
     await runMigrations();
   }
   await sequelize.authenticate();
