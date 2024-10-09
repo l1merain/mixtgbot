@@ -9,14 +9,16 @@ services:
     volumes:
       - .:/opt/app
     environment:
-      - BOT_API_KEY=7059021990:AAFXm2Ho1dbDg0ZZpJGwRyIrrVXHss01eLE
-      - ADMIN_ID=321193978
-      - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=6o2P8HzMtmpZvQvBJaAp
-      - POSTGRES_DB=tgbot
-      - POSTGRES_PORT=5432
-      - POSTGRES_HOST=postgres
-      - POLL_TIME_SEC=10
+      - BOT_API_KEY="7059021990:AAFXm2Ho1dbDg0ZZpJGwRyIrrVXHss01eLE"
+      - ADMIN_ID="321193978"
+      - POLL_TIME_MINUTES=10
+      - POSTGRES_USER= "postgres"
+      - POSTGRES_PASSWORD="6o2P8HzMtmpZvQvBJaAp"
+      - POSTGRES_DB="tgbot"
+      - POSTGRES_PORT="5431"
+      - POSTGRES_HOST="127.0.0.1"
+      - AMQP_CONNECTION_STRING="amqp://rabbit:6o2P8HzMtmpZvQvBJaAp@localhost:5672"
+      - AMQP_QUEUE_NAME="events"
     depends_on:
       - postgres
     extra_hosts:
