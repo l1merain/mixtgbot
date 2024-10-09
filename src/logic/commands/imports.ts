@@ -1,5 +1,5 @@
 import { start } from "./start";
-import { textAll } from "./textAll";
-import { startPoll, stopPoll } from "./poll";
+import { startPoll } from "./startPoll";
+import { stopPoll } from "./stopPoll";
 
-export { textAll, start, startPoll, stopPoll };
+export { start, startPoll, stopPoll };

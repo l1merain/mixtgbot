@@ -16,6 +16,7 @@ export const sequelize = new Sequelize({
 });
 
 export const runMigrations = async () => {
+  console.log("[DB]: Run migrations");
   await new Promise((resolve, reject) => {
     const migrate = exec(
       `sequelize db:migrate --env ${process.env.NODE_ENV}`,
@@ -30,4 +31,5 @@ export const runMigrations = async () => {
       migrate.stderr.pipe(process.stderr);
     }
   });
+  console.log("[DB]: Migrations successfully done");
 };

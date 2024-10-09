@@ -1,0 +1,6680 @@
+{
+  "Id": 100997,
+  "Created": "2024-10-08T19:10:44.4525903+00:00",
+  "SkuId": 493,
+  "Sku": null,
+  "PositionByCity": {
+    "0c5b2444-70a0-4932-980c-b4dc0d3f02b5": 9,
+    "93b3df57-4c89-44df-ac42-96f05e9cd3b9": 9,
+    "2763c110-cb8b-416a-9dac-ad28a55b4402": 9,
+    "7dfa745e-aa19-4688-b121-b655c11e482f": 9,
+    "c2deb16a-0330-4f05-821f-1d09c93331e6": 9,
+    "a309e4ce-2f36-4106-b1ca-53e0f48a6d95": 9,
+    "8dea00e3-9aab-4d8e-887c-ef2aaa546456": 9,
+    "a376e68d-724a-4472-be7c-891bdb09ae32": 9,
+    "bb035cc3-1dc2-4627-9d25-a1bf2d4b936b": 9
+  },
+  "ScanId": "57fdd952-7862-4f83-ae47-c3ec1bc0611d",
+  "CompetitorItemsByCity": {
+    "0c5b2444-70a0-4932-980c-b4dc0d3f02b5": [
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481153"
+        },
+        "Position": 1,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1040397762"
+        },
+        "Position": 2,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743130296"
+        },
+        "Position": 3,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "900972624"
+        },
+        "Position": 4,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505789"
+        },
+        "Position": 5,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505705"
+        },
+        "Position": 6,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844902605"
+        },
+        "Position": 7,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481086"
+        },
+        "Position": 8,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "539173020"
+        },
+        "Position": 10,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562928474"
+        },
+        "Position": 11,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1411354636"
+        },
+        "Position": 12,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1543737363"
+        },
+        "Position": 13,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505863"
+        },
+        "Position": 14,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1300210602"
+        },
+        "Position": 15,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597456"
+        },
+        "Position": 16,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597416"
+        },
+        "Position": 17,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "853104605"
+        },
+        "Position": 18,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "70.0 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597481"
+        },
+        "Position": 19,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "834303670"
+        },
+        "Position": 20,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743167337"
+        },
+        "Position": 21,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1641931628"
+        },
+        "Position": 22,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "156.86 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1646817456"
+        },
+        "Position": 23,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844767923"
+        },
+        "Position": 24,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449610"
+        },
+        "Position": 25,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "156.86 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1127349659"
+        },
+        "Position": 26,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844761873"
+        },
+        "Position": 27,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1339458254"
+        },
+        "Position": 28,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "117.48 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1295628795"
+        },
+        "Position": 29,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "311177958"
+        },
+        "Position": 30,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597472"
+        },
+        "Position": 31,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "828916024"
+        },
+        "Position": 32,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "497175804"
+        },
+        "Position": 33,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "623982653"
+        },
+        "Position": 34,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "128.26 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1521736481"
+        },
+        "Position": 35,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1410732630"
+        },
+        "Position": 36,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743158152"
+        },
+        "Position": 37,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449516"
+        },
+        "Position": 38,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "985832125"
+        },
+        "Position": 39,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "891454147"
+        },
+        "Position": 40,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      }
+    ],
+    "93b3df57-4c89-44df-ac42-96f05e9cd3b9": [
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481153"
+        },
+        "Position": 1,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1040397762"
+        },
+        "Position": 2,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743130296"
+        },
+        "Position": 3,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "900972624"
+        },
+        "Position": 4,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505789"
+        },
+        "Position": 5,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505705"
+        },
+        "Position": 6,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844902605"
+        },
+        "Position": 7,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481086"
+        },
+        "Position": 8,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "539173020"
+        },
+        "Position": 10,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562928474"
+        },
+        "Position": 11,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1411354636"
+        },
+        "Position": 12,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1543737363"
+        },
+        "Position": 13,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505863"
+        },
+        "Position": 14,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1300210602"
+        },
+        "Position": 15,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597456"
+        },
+        "Position": 16,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597416"
+        },
+        "Position": 17,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "853104605"
+        },
+        "Position": 18,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "70.0 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597481"
+        },
+        "Position": 19,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "834303670"
+        },
+        "Position": 20,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743167337"
+        },
+        "Position": 21,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449610"
+        },
+        "Position": 22,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "156.86 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1127349659"
+        },
+        "Position": 23,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844767923"
+        },
+        "Position": 24,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1339458254"
+        },
+        "Position": 25,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "117.48 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597472"
+        },
+        "Position": 26,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844761873"
+        },
+        "Position": 27,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1295628795"
+        },
+        "Position": 28,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "985832125"
+        },
+        "Position": 29,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "311177958"
+        },
+        "Position": 30,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1410732630"
+        },
+        "Position": 31,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505844"
+        },
+        "Position": 32,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "623982653"
+        },
+        "Position": 33,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "128.26 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449516"
+        },
+        "Position": 34,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "497175804"
+        },
+        "Position": 35,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1521736481"
+        },
+        "Position": 36,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743158152"
+        },
+        "Position": 37,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "821985252"
+        },
+        "Position": 38,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1304306247"
+        },
+        "Position": 39,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.6 %",
+          "SubValue": "98.76 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "891454147"
+        },
+        "Position": 40,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      }
+    ],
+    "2763c110-cb8b-416a-9dac-ad28a55b4402": [
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481153"
+        },
+        "Position": 1,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1040397762"
+        },
+        "Position": 2,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743130296"
+        },
+        "Position": 3,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "900972624"
+        },
+        "Position": 4,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505789"
+        },
+        "Position": 5,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505705"
+        },
+        "Position": 6,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844902605"
+        },
+        "Position": 7,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481086"
+        },
+        "Position": 8,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "539173020"
+        },
+        "Position": 10,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562928474"
+        },
+        "Position": 11,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1411354636"
+        },
+        "Position": 12,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505863"
+        },
+        "Position": 13,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597456"
+        },
+        "Position": 14,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1300210602"
+        },
+        "Position": 15,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597481"
+        },
+        "Position": 16,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1543737363"
+        },
+        "Position": 17,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "853104605"
+        },
+        "Position": 18,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "70.0 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "834303670"
+        },
+        "Position": 19,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449610"
+        },
+        "Position": 20,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "156.86 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743167337"
+        },
+        "Position": 21,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1127349659"
+        },
+        "Position": 22,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597472"
+        },
+        "Position": 23,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844767923"
+        },
+        "Position": 24,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1339458254"
+        },
+        "Position": 25,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "117.48 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1410732630"
+        },
+        "Position": 26,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844761873"
+        },
+        "Position": 27,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "623982653"
+        },
+        "Position": 28,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "128.26 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "985832125"
+        },
+        "Position": 29,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "311177958"
+        },
+        "Position": 30,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449516"
+        },
+        "Position": 31,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "497175804"
+        },
+        "Position": 32,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1521736481"
+        },
+        "Position": 33,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505844"
+        },
+        "Position": 34,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597416"
+        },
+        "Position": 35,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1643628402"
+        },
+        "Position": 36,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743158152"
+        },
+        "Position": 37,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "821985252"
+        },
+        "Position": 38,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "887386389"
+        },
+        "Position": 39,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "891454147"
+        },
+        "Position": 40,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      }
+    ],
+    "7dfa745e-aa19-4688-b121-b655c11e482f": [
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481153"
+        },
+        "Position": 1,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1040397762"
+        },
+        "Position": 2,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743130296"
+        },
+        "Position": 3,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "900972624"
+        },
+        "Position": 4,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505789"
+        },
+        "Position": 5,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505705"
+        },
+        "Position": 6,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844902605"
+        },
+        "Position": 7,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481086"
+        },
+        "Position": 8,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "539173020"
+        },
+        "Position": 10,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562928474"
+        },
+        "Position": 11,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1411354636"
+        },
+        "Position": 12,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1543737363"
+        },
+        "Position": 13,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505863"
+        },
+        "Position": 14,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1300210602"
+        },
+        "Position": 15,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597456"
+        },
+        "Position": 16,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597416"
+        },
+        "Position": 17,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "853104605"
+        },
+        "Position": 18,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "70.0 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597481"
+        },
+        "Position": 19,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "834303670"
+        },
+        "Position": 20,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743167337"
+        },
+        "Position": 21,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1641931628"
+        },
+        "Position": 22,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "156.86 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449610"
+        },
+        "Position": 23,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "156.86 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844767923"
+        },
+        "Position": 24,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597472"
+        },
+        "Position": 25,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1295628795"
+        },
+        "Position": 26,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844761873"
+        },
+        "Position": 27,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1339458254"
+        },
+        "Position": 28,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "117.48 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "623982653"
+        },
+        "Position": 29,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "128.26 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "311177958"
+        },
+        "Position": 30,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "985832125"
+        },
+        "Position": 31,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1410732630"
+        },
+        "Position": 32,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449516"
+        },
+        "Position": 33,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "497175804"
+        },
+        "Position": 34,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1521736481"
+        },
+        "Position": 35,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1643628402"
+        },
+        "Position": 36,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743158152"
+        },
+        "Position": 37,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505844"
+        },
+        "Position": 38,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "838285078"
+        },
+        "Position": 39,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "236.06 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "891454147"
+        },
+        "Position": 40,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      }
+    ],
+    "c2deb16a-0330-4f05-821f-1d09c93331e6": [
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481153"
+        },
+        "Position": 1,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1040397762"
+        },
+        "Position": 2,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743130296"
+        },
+        "Position": 3,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "900972624"
+        },
+        "Position": 4,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505789"
+        },
+        "Position": 5,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505705"
+        },
+        "Position": 6,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844902605"
+        },
+        "Position": 7,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481086"
+        },
+        "Position": 8,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "539173020"
+        },
+        "Position": 10,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562928474"
+        },
+        "Position": 11,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1411354636"
+        },
+        "Position": 12,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1543737363"
+        },
+        "Position": 13,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505863"
+        },
+        "Position": 14,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1300210602"
+        },
+        "Position": 15,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597456"
+        },
+        "Position": 16,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597416"
+        },
+        "Position": 17,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "853104605"
+        },
+        "Position": 18,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "70.0 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597481"
+        },
+        "Position": 19,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "834303670"
+        },
+        "Position": 20,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743167337"
+        },
+        "Position": 21,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449610"
+        },
+        "Position": 22,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "156.86 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1127349659"
+        },
+        "Position": 23,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844767923"
+        },
+        "Position": 24,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1339458254"
+        },
+        "Position": 25,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "117.48 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1641931628"
+        },
+        "Position": 26,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "156.86 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844761873"
+        },
+        "Position": 27,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597472"
+        },
+        "Position": 28,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "497175804"
+        },
+        "Position": 29,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "311177958"
+        },
+        "Position": 30,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "623982653"
+        },
+        "Position": 31,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "128.26 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1410732630"
+        },
+        "Position": 32,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449516"
+        },
+        "Position": 33,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505844"
+        },
+        "Position": 34,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "985832125"
+        },
+        "Position": 35,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1295628795"
+        },
+        "Position": 36,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743158152"
+        },
+        "Position": 37,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "828916024"
+        },
+        "Position": 38,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "821985252"
+        },
+        "Position": 39,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "891454147"
+        },
+        "Position": 40,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      }
+    ],
+    "a309e4ce-2f36-4106-b1ca-53e0f48a6d95": [
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481153"
+        },
+        "Position": 1,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1040397762"
+        },
+        "Position": 2,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743130296"
+        },
+        "Position": 3,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "900972624"
+        },
+        "Position": 4,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505789"
+        },
+        "Position": 5,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505705"
+        },
+        "Position": 6,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844902605"
+        },
+        "Position": 7,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481086"
+        },
+        "Position": 8,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "539173020"
+        },
+        "Position": 10,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562928474"
+        },
+        "Position": 11,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1411354636"
+        },
+        "Position": 12,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505863"
+        },
+        "Position": 13,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1543737363"
+        },
+        "Position": 14,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1300210602"
+        },
+        "Position": 15,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597456"
+        },
+        "Position": 16,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597481"
+        },
+        "Position": 17,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "853104605"
+        },
+        "Position": 18,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "70.0 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "834303670"
+        },
+        "Position": 19,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449610"
+        },
+        "Position": 20,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "156.86 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743167337"
+        },
+        "Position": 21,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1127349659"
+        },
+        "Position": 22,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597416"
+        },
+        "Position": 23,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844767923"
+        },
+        "Position": 24,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597472"
+        },
+        "Position": 25,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1339458254"
+        },
+        "Position": 26,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "117.48 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844761873"
+        },
+        "Position": 27,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1410732630"
+        },
+        "Position": 28,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "623982653"
+        },
+        "Position": 29,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "128.26 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "311177958"
+        },
+        "Position": 30,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "985832125"
+        },
+        "Position": 31,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449516"
+        },
+        "Position": 32,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "497175804"
+        },
+        "Position": 33,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1521736481"
+        },
+        "Position": 34,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505844"
+        },
+        "Position": 35,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "821985252"
+        },
+        "Position": 36,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743158152"
+        },
+        "Position": 37,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "887386389"
+        },
+        "Position": 38,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1523060822"
+        },
+        "Position": 39,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "891454147"
+        },
+        "Position": 40,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      }
+    ],
+    "8dea00e3-9aab-4d8e-887c-ef2aaa546456": [
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481153"
+        },
+        "Position": 1,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1040397762"
+        },
+        "Position": 2,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743130296"
+        },
+        "Position": 3,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "900972624"
+        },
+        "Position": 4,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505789"
+        },
+        "Position": 5,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505705"
+        },
+        "Position": 6,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844902605"
+        },
+        "Position": 7,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481086"
+        },
+        "Position": 8,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "539173020"
+        },
+        "Position": 10,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562928474"
+        },
+        "Position": 11,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1411354636"
+        },
+        "Position": 12,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1543737363"
+        },
+        "Position": 13,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505863"
+        },
+        "Position": 14,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1300210602"
+        },
+        "Position": 15,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597456"
+        },
+        "Position": 16,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597416"
+        },
+        "Position": 17,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "853104605"
+        },
+        "Position": 18,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "70.0 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597481"
+        },
+        "Position": 19,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "834303670"
+        },
+        "Position": 20,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743167337"
+        },
+        "Position": 21,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1641931628"
+        },
+        "Position": 22,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "156.86 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449610"
+        },
+        "Position": 23,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "156.86 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844767923"
+        },
+        "Position": 24,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597472"
+        },
+        "Position": 25,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1295628795"
+        },
+        "Position": 26,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844761873"
+        },
+        "Position": 27,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1339458254"
+        },
+        "Position": 28,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "117.48 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "623982653"
+        },
+        "Position": 29,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "128.26 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "311177958"
+        },
+        "Position": 30,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "985832125"
+        },
+        "Position": 31,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449516"
+        },
+        "Position": 32,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "497175804"
+        },
+        "Position": 33,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1521736481"
+        },
+        "Position": 34,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505844"
+        },
+        "Position": 35,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576940417"
+        },
+        "Position": 36,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "94.99 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743158152"
+        },
+        "Position": 37,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "821985252"
+        },
+        "Position": 38,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "934124002"
+        },
+        "Position": 39,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "891454147"
+        },
+        "Position": 40,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      }
+    ],
+    "a376e68d-724a-4472-be7c-891bdb09ae32": [
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481153"
+        },
+        "Position": 1,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1040397762"
+        },
+        "Position": 2,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743130296"
+        },
+        "Position": 3,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "900972624"
+        },
+        "Position": 4,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505789"
+        },
+        "Position": 5,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505705"
+        },
+        "Position": 6,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844902605"
+        },
+        "Position": 7,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481086"
+        },
+        "Position": 8,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "539173020"
+        },
+        "Position": 10,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562928474"
+        },
+        "Position": 11,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1411354636"
+        },
+        "Position": 12,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505863"
+        },
+        "Position": 13,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1543737363"
+        },
+        "Position": 14,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1300210602"
+        },
+        "Position": 15,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597456"
+        },
+        "Position": 16,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597481"
+        },
+        "Position": 17,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "853104605"
+        },
+        "Position": 18,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "70.0 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "834303670"
+        },
+        "Position": 19,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449610"
+        },
+        "Position": 20,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "156.86 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743167337"
+        },
+        "Position": 21,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1127349659"
+        },
+        "Position": 22,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597416"
+        },
+        "Position": 23,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844767923"
+        },
+        "Position": 24,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597472"
+        },
+        "Position": 25,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1339458254"
+        },
+        "Position": 26,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "117.48 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844761873"
+        },
+        "Position": 27,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1410732630"
+        },
+        "Position": 28,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "623982653"
+        },
+        "Position": 29,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "128.26 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "311177958"
+        },
+        "Position": 30,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "985832125"
+        },
+        "Position": 31,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449516"
+        },
+        "Position": 32,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "497175804"
+        },
+        "Position": 33,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1521736481"
+        },
+        "Position": 34,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505844"
+        },
+        "Position": 35,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "821985252"
+        },
+        "Position": 36,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743158152"
+        },
+        "Position": 37,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "887386389"
+        },
+        "Position": 38,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1523060822"
+        },
+        "Position": 39,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "891454147"
+        },
+        "Position": 40,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      }
+    ],
+    "bb035cc3-1dc2-4627-9d25-a1bf2d4b936b": [
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481153"
+        },
+        "Position": 1,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743130296"
+        },
+        "Position": 2,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "900972624"
+        },
+        "Position": 3,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505705"
+        },
+        "Position": 4,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1040397762"
+        },
+        "Position": 5,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562505789"
+        },
+        "Position": 6,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844902605"
+        },
+        "Position": 7,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1576481086"
+        },
+        "Position": 8,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "548659993"
+        },
+        "Position": 9,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "14.4 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "539173020"
+        },
+        "Position": 10,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1562928474"
+        },
+        "Position": 11,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1411354636"
+        },
+        "Position": 12,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1543737363"
+        },
+        "Position": 13,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505863"
+        },
+        "Position": 14,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1300210602"
+        },
+        "Position": 15,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597456"
+        },
+        "Position": 16,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597416"
+        },
+        "Position": 17,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "853104605"
+        },
+        "Position": 18,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "70.0 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597481"
+        },
+        "Position": 19,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "834303670"
+        },
+        "Position": 20,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743167337"
+        },
+        "Position": 21,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449610"
+        },
+        "Position": 22,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "156.86 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1127349659"
+        },
+        "Position": 23,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844767923"
+        },
+        "Position": 24,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1400597472"
+        },
+        "Position": 25,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1339458254"
+        },
+        "Position": 26,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "117.48 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "844761873"
+        },
+        "Position": 27,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "17.7 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "623982653"
+        },
+        "Position": 28,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "22.0 %",
+          "SubValue": "128.26 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1410732630"
+        },
+        "Position": 29,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "743158152"
+        },
+        "Position": 30,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "985832125"
+        },
+        "Position": 31,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1621449516"
+        },
+        "Position": 32,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "497175804"
+        },
+        "Position": 33,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1521736481"
+        },
+        "Position": 34,
+        "Promotion": {
+          "Type": 1,
+          "Status": 1,
+          "TypeString": "Продвижение в поиске",
+          "StatusString": "Продвигается",
+          "Value": "23.0 %",
+          "SubValue": "121.21 ₽"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1579505844"
+        },
+        "Position": 35,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "821985252"
+        },
+        "Position": 36,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "891454147"
+        },
+        "Position": 37,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "19.5 ₽",
+          "SubValue": "за клик"
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "887386389"
+        },
+        "Position": 38,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "1434744343"
+        },
+        "Position": 39,
+        "Promotion": {
+          "Type": 0,
+          "Status": 0,
+          "TypeString": "Не продвигается",
+          "StatusString": "Не продвигается",
+          "Value": "---",
+          "SubValue": ""
+        }
+      },
+      {
+        "ItemInfo": {
+          "pictureUrl": null,
+          "name": null,
+          "sellerName": null,
+          "sellerId": null,
+          "sku": "311177958"
+        },
+        "Position": 40,
+        "Promotion": {
+          "Type": 3,
+          "Status": 1,
+          "TypeString": "Трафареты",
+          "StatusString": "Продвигается",
+          "Value": "15.9 ₽",
+          "SubValue": "за клик"
+        }
+      }
+    ]
+  }
+}
