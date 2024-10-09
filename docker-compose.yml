@@ -6,8 +6,6 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    volumes:
-      - .:/opt/app
     environment:
       - BOT_API_KEY=7059021990:AAFXm2Ho1dbDg0ZZpJGwRyIrrVXHss01eLE
       - ADMIN_ID=321193978

@@ -19,7 +19,7 @@ export const runMigrations = async () => {
   console.log("[DB]: Run migrations");
   await new Promise((resolve, reject) => {
     const migrate = exec(
-      `sequelize db:migrate --env ${process.env.NODE_ENV}`,
+      `npx sequelize db:migrate --env ${process.env.NODE_ENV}`,
       { env: process.env },
       (err) =>
         err ? reject(err) : resolve(() => console.log("migrations completed")),
