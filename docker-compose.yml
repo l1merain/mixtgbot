@@ -13,31 +13,10 @@ services:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=6o2P8HzMtmpZvQvBJaAp
       - POSTGRES_DB=tgbot
-      - POSTGRES_PORT=5432
-      - POSTGRES_HOST=postgres
-      - AMQP_CONNECTION_STRING=amqp://rabbit:6o2P8HzMtmpZvQvBJaAp@localhost:5672
+      - POSTGRES_PORT=5433
+      - POSTGRES_HOST=host.docker.internal
+      - AMQP_CONNECTION_STRING=amqp://rabbit:6o2P8HzMtmpZvQvBJaAp@host.docker.internal:5672
       - AMQP_QUEUE_NAME=events
-      - NODE_ENV=production
-    depends_on:
-      - postgres
+      - NODE_ENV=production  
     extra_hosts:
       - "host.docker.internal:host-gateway"
-
-  postgres:
-    container_name: postgres
-    image: postgres:14-alpine
-    restart: always
-    environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: 6o2P8HzMtmpZvQvBJaAp
-      POSTGRES_DB: tgbot
-    ports:
-      - "5431:5432"
-    volumes:
-      - postgresql_data:/var/lib/postgresql/data
-    extra_hosts:
-      - "host.docker.internal:host-gateway"
-
-
-volumes:
-  postgresql_data:
